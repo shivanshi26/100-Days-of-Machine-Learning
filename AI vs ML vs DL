@@ -1,0 +1,26 @@
+### AI vs. ML vs. DL: Explained with an Example
+
+**Artificial Intelligence (AI):**
+Artificial Intelligence is the broad field of creating systems that can perform tasks requiring human intelligence. It encompasses a range of technologies and techniques, including machine learning, expert systems, and robotics.
+
+**Machine Learning (ML):**
+Machine Learning is a subset of AI that focuses on developing algorithms that can learn from and make predictions or decisions based on data. It involves training models using data to recognize patterns and make informed decisions without explicit programming.
+
+**Deep Learning (DL):**
+Deep Learning is a specialized subset of machine learning that uses neural networks with many layers (deep neural networks) to analyze various factors of data. It excels in handling large volumes of unstructured data such as images, audio, and text.
+
+### Example: Email Spam Detection
+
+**Artificial Intelligence (AI):**
+An AI system could encompass various techniques to detect spam emails, such as rule-based systems (if certain keywords are present) and machine learning models that learn from data.
+
+**Machine Learning (ML):**
+A machine learning approach would involve training a model on a dataset of emails labeled as spam or not spam. The model learns to identify patterns in the emails, such as specific words or phrases, to classify future emails as spam or not.
+
+**Deep Learning (DL):**
+A deep learning approach might use a neural network with multiple layers to process and understand the email content at a more abstract level. For instance, a convolutional neural network (CNN) could analyze the text and detect more complex patterns that indicate spam, even considering the context and structure of the email.
+
+In summary:
+- **AI** is the overarching concept of machines mimicking human intelligence.
+- **ML** is a method within AI focused on learning from data.
+- **DL** is a more advanced form of ML using deep neural networks for greater accuracy and handling complex data.
