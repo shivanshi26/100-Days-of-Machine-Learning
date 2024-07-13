@@ -1,0 +1,7 @@
+Online Machine Learning
+Online machine learning, also known as incremental learning, refers to a method where the model is trained continuously as new data arrives. Here are some key characteristics:
+
+Incremental Updates: The model is updated incrementally as new data comes in, typically in real-time or near real-time.
+Adaptability: This approach allows the model to adapt to new patterns and changes in the data distribution more quickly.
+Resource Efficient: Can be more efficient in terms of computational resources since updates are performed on smaller batches of data or even on individual data points.
+Use Cases: Useful in scenarios where data is continuously generated, such as in online advertising, fraud detection, and real-time recommendation systems.
