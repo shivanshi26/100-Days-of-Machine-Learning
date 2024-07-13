@@ -1,0 +1,7 @@
+Batch Machine Learning
+Batch machine learning refers to a method where the model is trained on a fixed set of data. Here are some key characteristics:
+
+Fixed Dataset: The model is trained using a complete dataset all at once, typically offline.
+Model Update: Updates to the model occur periodically. Each update involves re-training the model on the entire dataset, possibly including new data collected since the last training session.
+Resource Intensive: Training can be resource and time-intensive since it involves processing the entire dataset.
+Use Cases: Common in scenarios where data does not arrive continuously or where it is feasible to retrain the model periodically (e.g., recommendation systems, image recognition).
