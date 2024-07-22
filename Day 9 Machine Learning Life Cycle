@@ -1,0 +1,57 @@
+1. Gathering Data
+This is the first step where data is collected from various sources.
+
+Subcategories:
+Data Collection: Identifying and gathering relevant data from different sources such as databases, web scraping, APIs, surveys, etc.
+Data Acquisition: Importing data into the system where it will be stored and processed.
+Data Logging: Keeping a record of where and how the data was collected for future reference and reproducibility.
+
+2. Data Preparation
+In this step, raw data is cleaned and transformed into a format suitable for analysis.
+
+Subcategories:
+Data Cleaning: Handling missing values, correcting errors, removing duplicates, and ensuring data consistency.
+Data Transformation: Converting data into a suitable format or structure, which might involve normalization, scaling, and encoding categorical variables.
+Data Integration: Combining data from multiple sources to provide a unified view.
+
+3. Data Wrangling
+This step involves transforming and mapping raw data into a more usable format.
+
+Subcategories:
+Data Exploration: Understanding the data through statistical summaries and visualizations.
+Feature Engineering: Creating new features or modifying existing ones to improve the performance of machine learning models.
+Data Reduction: Reducing the volume of data by techniques like dimensionality reduction or feature selection.
+
+4. Analyzing Data
+In this step, insights are derived from the data through various analysis techniques.
+
+Subcategories:
+Exploratory Data Analysis (EDA): Using statistical methods and visualization tools to discover patterns, relationships, and anomalies in the data.
+Hypothesis Testing: Testing assumptions or hypotheses about the data.
+Statistical Analysis: Applying statistical methods to summarize and infer properties of the data.
+
+5. Train the Model
+This is where the actual machine learning happens. A model is trained using the prepared data.
+
+Subcategories:
+Selecting a Model: Choosing the appropriate machine learning algorithm(s) based on the problem and data.
+Splitting Data: Dividing data into training and validation sets.
+Training the Model: Feeding the training data into the model to learn from it.
+Hyperparameter Tuning: Adjusting the model parameters to optimize performance.
+
+6. Test the Model
+The model's performance is evaluated on a separate test set to ensure it generalizes well to unseen data.
+
+Subcategories:
+Model Evaluation: Using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to evaluate the model’s performance.
+Cross-Validation: Applying techniques like k-fold cross-validation to ensure the model's robustness.
+Model Comparison: Comparing the performance of different models and selecting the best one.
+
+7. Deployment
+The final step involves deploying the model to a production environment where it can be used to make predictions on new data.
+
+Subcategories:
+Model Integration: Integrating the model into an existing system or application.
+Monitoring: Continuously monitoring the model’s performance in the production environment to ensure it performs as expected.
+Maintenance: Updating the model as new data comes in or as the underlying data distribution changes (retraining).
+These steps provide a comprehensive framework for developing, evaluating, and deploying machine learning models.
